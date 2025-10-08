@@ -20,7 +20,7 @@ So my username was ines_plsqlauca_27902
 
 First I logged in as sys user in SQLPLUS : 
 
-As indicated in the screenshot in [Logging_in_as_sysdba.png](screenshots/Logging_in_as_sysdba.png)
+As indicated in the screenshot in [Logging_in_as_sys_as_sysdba.png](screenshots/Logging_in_as_sys_as_sysdba.png)
 
 Then I procceded by creating the Pluggable Database: [creating_1st_PDB.png](screenshots/creating_1st_PDB.png)
 
