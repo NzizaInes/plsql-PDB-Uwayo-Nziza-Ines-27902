@@ -40,7 +40,7 @@ Then I got confirmation: [to_delete_PDB_created.png](screenshots/to_delete_PDB_c
 
 Then I checked if the PDB had been created : [showing_to_delete_PDB.png](screenshots/showing_to_delete_PDB.png)
 
-I proceded to delete the PDB : [to_delete_PDB_created.png](screenshots/to_delete_PDB_created.png)
+I proceded to delete the PDB : [to_delete_PDB_deleted.png](screenshots/to_delete_PDB_deleted.png)
 
 Then I verified if the deletion was successful : [verifying_deletion.png](screenshots/verifying_deletion.png)
 
